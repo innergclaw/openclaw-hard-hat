@@ -1,0 +1,27 @@
+{
+  "name": "openclaw-hard-hat",
+  "version": "1.0.0",
+  "description": "Safety-first installation scanner for OpenClaw skills",
+  "author": "InnerGClaw",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/innergclaw/openclaw-hard-hat"
+  },
+  "scripts": {
+    "scan": "node scripts/hard-hat-scan.js",
+    "daily": "node scripts/hard-hat-scan.js --daily-check",
+    "setup": "node scripts/setup-daily-check.js"
+  },
+  "keywords": [
+    "openclaw",
+    "security",
+    "safety",
+    "scanner",
+    "malware-detection",
+    "skill-verification"
+  ],
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
