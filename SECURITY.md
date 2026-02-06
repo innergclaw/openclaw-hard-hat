@@ -5,7 +5,7 @@
 **Please DO NOT report security vulnerabilities through public GitHub issues.**
 
 Instead, please report them via:
-- Email: [Create a secure contact method]
+- Email: innergclaw@gmail.com
 - Private GitHub Security Advisory
 
 Please include:
